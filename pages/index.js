@@ -6,7 +6,7 @@ import { StyledTimeline } from "../src/components/Timeline";
 
 function HomePage() {
   const estilosHomePage = {
-    
+    width: "100%",
   };
   console.log(config.playlists);
   return (
